@@ -1,0 +1,19 @@
+{
+    "name": "igoraleksejcuk/ml.loc",
+    "authors": [
+        {
+            "name": "igoraleksejcuk",
+            "email": "igor.aleksejcuk@neklo.com"
+        }
+    ],
+    "require": {
+        "robotomize/regression-php": "^0.3.3",
+        "mnshankar/linear-regression": "1.0.*",
+        "php-ai/php-ml": "^0.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
